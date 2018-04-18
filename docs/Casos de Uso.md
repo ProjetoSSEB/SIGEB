@@ -51,4 +51,26 @@
 
 **2. Registrar suas atividades**
 
-  * I.	O usuário acessa a sua página do setor, insere a descrição de suas atividades no campo relacionado a sua presença, sistema salva o registro e deixa em espera a validação de seu servidor responsável.
+  * O usuário acessa a sua página do setor, insere a descrição de suas atividades no campo relacionado a sua presença, sistema salva o registro e deixa em espera a validação de seu servidor responsável.
+
+**3. Emitir Relatório de atividades**
+
+  * O estagiário solicita um relatório de suas frequências e atividades, sistema gera o relatório.
+
+## Bolsista
+
+**1.	Bater ponto**
+  
+  * O Bolsista insere sua matrícula, o sistema muda sua situação para presente, sistema informa a situação para o bolsista, é habilitado o campo de registo de atividades do dia.
+  
+**2.	Registrar suas atividades**
+
+  * O usuário acessa a sua página do setor, insere a descrição de suas atividades no campo relacionado a sua presença, sistema salva o registro e deixa em espera a validação de seu servidor responsável.
+  
+**3.	Emitir Relatório de atividades**
+
+  * O bolsista solicita um relatório de suas presenças e atividades, sistema gera o relatório e é mostrado na tela como uma página da aplicação.
+  
+**4.	Regularização com o serviço social**
+
+  * O bolsista solicita o relatório de presença, o sistema gera com todos os dados requisitados pelo serviço social, o bolsista confere e manda enviar, o sistema confirma o envio.

@@ -1,2 +1,2 @@
-# SSEB
-Repositório para o gerenciamento do projeto SSEB.
+# SIGEB
+Repositório para o gerenciamento do projeto SIGEB.

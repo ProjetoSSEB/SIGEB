@@ -61,7 +61,7 @@
 
 **1.	Bater ponto**
   
-  * O Bolsista insere sua matrícula, o sistema muda sua situação para presente, sistema informa a situação para o bolsista, é habilitado o campo de registo de atividades do dia.
+  * O Bolsista insere sua matrícula, e é registrado sua entrada e saída no sistema através de campos para colocar essas informações.
   
 **2.	Registrar suas atividades**
 

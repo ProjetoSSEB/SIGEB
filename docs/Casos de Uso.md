@@ -47,7 +47,7 @@
 
 **1. Bater o ponto**
 
-  * O estagiário insere sua matrícula, o sistema muda sua situação para presente, sistema informa a situação para o estagiário.
+  * O Estagiário insere sua matrícula, e é registrado sua entrada e saída no sistema através de campos para colocar essas informações.
 
 **2. Registrar suas atividades**
 
